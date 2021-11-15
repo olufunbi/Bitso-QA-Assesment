@@ -2,6 +2,10 @@
 
 ### Steps to run the repo
 
+The End-to-End tests are contained within the Cypress folder, within the Integration folder.
+
+The screenshots taken when the precondition was executed manually are contained are within the `Manaul_Precondition` folder
+
 Run `npm install` to install npm
 
 Run `npx cypress open` to open up the Cypress local runnner and run the repo locally.
