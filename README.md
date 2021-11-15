@@ -2,7 +2,7 @@
 
 ### Steps to run the repo
 
-The End-to-End tests are contained within the `Cypress` folder, within the `Integration` folder.
+The End-to-End tests are contained within the `cypress` folder, within the `integration` folder.
 
 The screenshots taken when the precondition was executed manually are contained are within the `Manaul_Precondition` folder
 
