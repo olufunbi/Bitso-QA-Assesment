@@ -4,6 +4,6 @@
 
 Run `npm install` to install npm
 
-Then Run `npx cypress open` to open up the Cypress local runnner and run the repo locally.
+Run `npx cypress open` to open up the Cypress local runnner and run the repo locally.
 
 Run `npx cypress run` to run the repo remotelly (Faster option)
